@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá meu nome é Marcelo de Figueiredo, Github usado para fins de estudo.
+
+<div align="center">
+  <a href="https://github.com/MarceloFigs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloFigs&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloFigs&layout=compact&langs_count=7&theme=solarized-dark"/>
+</div>
 
 <!--
 **MarceloFigs/MarceloFigs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
