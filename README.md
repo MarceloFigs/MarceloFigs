@@ -1,6 +1,6 @@
 # 🖥️ Marcelo de Figueiredo
 
-Olá me chamo Marcelo e sou desenvolvedor back-end .Net formado em Ciência da Computação. Este perfil foi criado para fins de estudo e como portfólio em busca de ingressar no mercado de trabalho.
+Olá me chamo Marcelo e sou desenvolvedor .Net formado em Ciência da Computação e atualmente cursando Análise e Desenvolvimento de Sistemas. Este perfil foi criado para fins de estudo e como portfólio em busca de ingressar no mercado de trabalho.
 
 ###
 
